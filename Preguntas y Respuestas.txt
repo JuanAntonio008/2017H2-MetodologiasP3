@@ -1,5 +1,5 @@
-Nombre completo:
-1. Describe en tus propias palabras qué es Kanban y para qué sirve. - 
-2. Describe en tus propias palabras qué es una sesión de Grooming. -
-3. ¿Qué significa que un PBI sea INVEST? -
-4. ¿Qué significa que una tarea sea SMART? -
+﻿Nombre completo: Marco Daniel Gómez Aguilar
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. - Puedes ser desde un muro de corcho con post it o una pizarra, es el lugar donde organizamos nuestras tareas sencillas e inmediatas.  
+2. Describe en tus propias palabras qué es una sesión de Grooming. - En forma básica, es la limpieza de nuestro Backlog en equipo, la reducción y desglose de este mismo en simples historias de usuario. 
+3. ¿Qué significa que un PBI sea INVEST? - INVEST hace referencia a una serie de palabras que son: Independiente, Negociable, Valiosa, Estimable, Short y Testable. Es a esto a lo que hace referencia si nuestro pbi es INVEST es por que cumple con cada una de las siglas. 
+4. ¿Qué significa que una tarea sea SMART? - Que es especifica y fácil de cuantificar, además de que su elaboración esta dentro de lo posible y realista. 
