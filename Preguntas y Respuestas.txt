@@ -1,0 +1,5 @@
+Nombre completo:
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. - 
+2. Describe en tus propias palabras qué es una sesión de Grooming. -
+3. ¿Qué significa que un PBI sea INVEST? -
+4. ¿Qué significa que una tarea sea SMART? -
