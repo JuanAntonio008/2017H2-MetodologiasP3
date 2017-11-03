@@ -1,11 +1,7 @@
 ﻿Nombre completo: Eduardo García Núñez
-1. Describe en tus propias palabras qué es Kanban y para qué sirve. - El Kanban es la cartulina que usamos en clase para poder
-hacer la planeación de las tareas de nuestro sprint, asi mismo tener una misma organización de estas y poder ver el proceso
-que se va llevando, y al final del sprint ver que falto, y que si se completo.
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. - El Kanban es la cartulina que usamos en clase para poder hacer la planeación de las tareas de nuestro sprint, asi mismo tener una misma organización de estas y poder ver el proceso que se va llevando, y al final del sprint ver que falto, y que si se completo.
 
-2. Describe en tus propias palabras qué es una sesión de Grooming. - Grooming es la limpieza del product backlog, no re hacerlo completamente
-si no revisar todo lo que se tiene e ir quitando y puliendo cosas que alomejor ya no se utilizaran o ya cambiaron conforme fue
-avanzando el proyecto.
+2. Describe en tus propias palabras qué es una sesión de Grooming. - Grooming es la limpieza del product backlog, no re hacerlo completamente si no revisar todo lo que se tiene e ir quitando y puliendo cosas que alomejor ya no se utilizaran o ya cambiaron conforme fue avanzando el proyecto.
 
 3. ¿Qué significa que un PBI sea INVEST? - Que un PBI ( Product Backlog Item ) sea INVEST significa que es: Independiente, Negociable, Valuable,Estimable, Pequeño y Testeable.
 
