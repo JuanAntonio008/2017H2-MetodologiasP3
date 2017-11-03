@@ -1,5 +1,5 @@
-Nombre completo:
-1. Describe en tus propias palabras qué es Kanban y para qué sirve. - 
-2. Describe en tus propias palabras qué es una sesión de Grooming. -
-3. ¿Qué significa que un PBI sea INVEST? -
-4. ¿Qué significa que una tarea sea SMART? -
+﻿Nombre completo:Juan Antonio Angeles Villalpando.
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. - Es una forma de Gestionar nuestro trabajo de forma Interactiva se usa regularmente en el desarrollo de software y su principal objetivo es que todo el equipo sepa en que se está trabajando y permite mover las tareas de forma personal.
+2. Describe en tus propias palabras qué es una sesión de Grooming. - El grooming o refinamiento del backlog es prácticamente una reunión que tiene el equipo para hacer la revisión del P.Backlog y así asegurar que tanto su objetivo como los criterios de aceptación sean precisos y reflejan las necesidades del proyecto.
+3. ¿Qué significa que un PBI sea INVEST? -Que el Product Backlog Item(PBI) sea Independiente, Negociable, Valiosa, Estimable o pequeña y testable.
+4. ¿Qué significa que una tarea sea SMART? -Que sea Pequeña, Medibles, Alcanzable y que tengan Time Box.
