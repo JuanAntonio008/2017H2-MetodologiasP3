@@ -1,5 +1,21 @@
+<<<<<<< HEAD
 ﻿Nombre completo:Alejandro Izquierdo Hernández
 1. Describe en tus propias palabras qué es Kanban y para qué sirve. - Kanban es un metodo de gestión de tareas para un proyecto que busca resolver el conflicto de entrega de tareas en tiempo gracias a la ayuda visual, ya sea de notas o tarjetas que todo el quipo pueda ver. Estas se colocan en cuatro areas principales: planeado / en proceso / bloqueado / resuelto.
 2. Describe en tus propias palabras qué es una sesión de Grooming. - Es una reunion para poder pulir el Backlog. Se estudia cada una de las tareas con el fin de especificar todo como "una historia de usuario". Esto con el proposito de alinear al equipo en tiempos y organizació. Hablar de la tareas pendientes y de aquellas con prioridad, hacerlas pequeñas, predecibles y mejorar según las especificaciones.
 3. ¿Qué significa que un PBI sea INVEST? - Las siglas INVEST = Independiente / Negociable / Con valor / Estimable / Testeable. Y es la forma en que se debe de detallar cada historia de usuario escrita.
 4. ¿Qué significa que una tarea sea SMART? - Conocer el time box especifo de la tarea, saber que tanto tiempo puede tardar en realizarse. Debe de ser pequeña y predecible  y alacanzable para lograr esto. 
+=======
+﻿<<<<<<< HEAD
+﻿Nombre completo:Juan Pablo Leyte Gomez
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. - El Kanban es un tablero que se utiliza para llevar a cabo algún proyecto, este tablero se divide en secciones donde por lo general se ponen tareas, estas secciones pueden ser planeadas, en progreso y completadas pero eso depende de cada equipo de trabajo. En cada tarea se asigna un usuario y se le da el tiempo que tomara esa tarea.
+2. Describe en tus propias palabras qué es una sesión de Grooming. - Es una reunión donde todos los miembros del equipo se juntan para refinar el backlog, añadiendo, removiendo y re-estimando nuevas tareas para saber en qué fase se encuentran del proyecto.
+3. ¿Qué significa que un PBI sea INVEST? - Significa que tiene que ser Independiente(no depender de otras tareas), Negociable(que se pueda cambiar), de Valor, Estimable(que se pueda medir), Small(que se pueda lograr en un dia) y Testeable(que se pueda probar).
+4. ¿Qué significa que una tarea sea SMART? - Significa que la tarea tiene que ser Simple, Medible, Alcanzable, Relevant(importante para el proyecto) y time-box(tiene que tener un estimado de cuanto se va a tardar).
+=======
+﻿Nombre completo:Juan Antonio Angeles Villalpando.
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. - Es una forma de Gestionar nuestro trabajo de forma Interactiva se usa regularmente en el desarrollo de software y su principal objetivo es que todo el equipo sepa en que se está trabajando y permite mover las tareas de forma personal.
+2. Describe en tus propias palabras qué es una sesión de Grooming. - El grooming o refinamiento del backlog es prácticamente una reunión que tiene el equipo para hacer la revisión del P.Backlog y así asegurar que tanto su objetivo como los criterios de aceptación sean precisos y reflejan las necesidades del proyecto.
+3. ¿Qué significa que un PBI sea INVEST? -Que el Product Backlog Item(PBI) sea Independiente, Negociable, Valiosa, Estimable o pequeña y testable.
+4. ¿Qué significa que una tarea sea SMART? -Que sea Pequeña, Medibles, Alcanzable y que tengan Time Box.
+>>>>>>> aa8ce8de16aa24e611303476ea95ab555eee1201
+>>>>>>> origin/master
